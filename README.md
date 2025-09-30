@@ -15,7 +15,7 @@ technical challenges, improving processes, and driving products from idea to pro
 ### Achievements
 - Cut WhatsApp communication costs by **78%** at Yandex
 - Launched a Mass Marketing Campaigns feature generating **$1M+ annual revenue**
-- Deployed Ads Platform to production, which served **1B+ impressions**
+- Directed the deploy of the Ads Platform to production, serving **1B+ impressions**
 - Mentored an intern → hired full-time
 
 ### Connect
