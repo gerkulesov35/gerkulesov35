@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey, I’m Evgeniy 👋
 
-<!--
-**gerkulesov35/gerkulesov35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Backend Developer with 5+ years of experience** in Java and Kotlin, focused on building reliable and scalable systems.
+Worked on high-load projects at Yandex, Yango and Huawei in teams from 3 to 15 people, closely collaborating with engineers and
+product managers. Experienced in microservices, distributed systems, and cloud architectures. Passionate about solving complex
+technical challenges, improving processes, and driving products from idea to production
 
-Here are some ideas to get you started:
+### Tech Stack
+- **Languages:** Java, Kotlin, Go, Python, SQL
+- **Frameworks:** Spring Boot, Spring Cloud, Ktor, Hibernate/JPA
+- **Databases:** PostgreSQL, Kafka, Redis
+- **DevOps:** Docker, Kubernetes, AWS, CI/CD (Jenkins, GitLab CI)
+- **Monitoring:** Prometheus, Grafana
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Achievements
+- Cut WhatsApp communication costs by **78%** at Yandex
+- Launched a Mass Marketing Campaigns feature generating **$1M+ annual revenue**
+- Deployed Ads Platform to production, which served **1B+ impressions**
+- Mentored an intern → hired full-time
+
+### Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/gerkulesov35)  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/gerkulesov35)  
